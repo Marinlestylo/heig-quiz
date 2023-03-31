@@ -19,7 +19,7 @@
     "laravel/tinker": "^2.7.2",
     "laravel/ui": "^3.4.6",
     "pusher/pusher-php-server": "^7.0",
-    "spatie/laravel-fractal": "^6.02",
+    "spatie/laravel-fractal": "^6.0.2",
     "uabookstores/laravel-shibboleth": "^3.4"
   },
   "require-dev": {
